@@ -1,0 +1,31 @@
+:root {
+  --ion-font-family: 'Segoe UI', Roboto, sans-serif;
+
+  --ion-color-primary: #ffb700;
+  --ion-color-primary-rgb: 255, 183, 0;
+  --ion-color-primary-contrast: #000000;
+  --ion-color-primary-contrast-rgb: 0, 0, 0;
+  --ion-color-primary-shade: #e0a100;
+  --ion-color-primary-tint: #ffbe1a;
+
+  --ion-background-color: #0f0f0f;
+  --ion-background-color-rgb: 15, 15, 15;
+  --ion-text-color: #ffffff;
+  --ion-text-color-rgb: 255, 255, 255;
+
+  --ion-item-background: #1e1e1e;
+  --ion-toolbar-background: #0f0f0f;
+  --ion-border-color: #333333;
+
+  --tut-card: #1e1e1e;
+  --tut-input: #121212;
+  --tut-border: #333333;
+  --tut-muted: #aaaaaa;
+  --tut-danger: #f44336;
+  --tut-success: #4caf50;
+}
+
+body {
+  background: #0f0f0f;
+  color: #ffffff;
+}
